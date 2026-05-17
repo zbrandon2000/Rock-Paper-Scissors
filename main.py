@@ -11,7 +11,7 @@ if question_1 == option2:
     
 CPUoptions = ["rock", "paper", "scissors"]
 
-
+# while u need to make theis x paprt rockets forever and hiihi misery
 if question_1 == option1:
     print("Rock, paper, scissors, shoot!")
     random_choice = random.randint(0, 2)
@@ -26,4 +26,4 @@ if question_1 == option1:
        
         print("YOU WIN YAYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
     else:
-        print("YOU LOSE HA HA")
+        print("YOU LOSE HA HA"ddd)
